@@ -1,6 +1,6 @@
 ## Hi 👋, I’m Lukas 
 ### I am web developer, mainly focused on React.
-#### Using Typescript, Next.js, Material UI...
+#### Using Typescript, Next.js, Styled Components...
 
 
 <!---
