@@ -1,6 +1,6 @@
 ## Hi 👋, I’m Łukasz 
 ### I am web developer, mainly focused on React.
-#### Using Typescript, Next.js, Material UI...
+#### Using Typescript, Next.js, Tailwind...
 
 
 <!---
